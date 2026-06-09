@@ -54,6 +54,3 @@ pipe.partial_fit(X_chunk, y_chunk)
 predictions = pipe.predict(X_chunk)
 ```
 
-## AI Use Acknowledgement
-
-Generative AI was used for planning, debugging advice, and language refinement. The code was reviewed, tested, and understood by the author.
